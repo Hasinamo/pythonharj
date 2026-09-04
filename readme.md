@@ -4,10 +4,13 @@ Hasina Mohmmad Musa
 1 ja 2 tehty
 
 # Moduuli 3
-1,2,3,5 tehty
+1,2,3,5,6 tehty
 
 # Moduuli 4
 1,2,3,4 tehty
 
 # Moduuli 5
 1,4 tehty
+
+# Moduuli 6
+1,2,3,4 tehty

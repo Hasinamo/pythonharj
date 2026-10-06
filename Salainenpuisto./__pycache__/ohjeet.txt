@@ -1,0 +1,53 @@
+========================================
+              PELIN OHJEET
+========================================
+
+pelaa
+Näyttää pelin tavoitteen.
+
+pisteet
+Näyttää omat pisteesi.
+
+ohje
+Näyttää nämä ohjeet.
+
+liiku
+Näyttää paikat, joihin voit mennä.
+Kirjoita paikan nimi.
+
+kerää
+Kerää nykyisessä paikassa olevan esineen.
+
+inventaario
+Näyttää keräämäsi esineet ja pisteet.
+
+paikka
+Näyttää nykyisen paikan tiedot.
+
+tallenna
+Tallentaa pelin tiedot tiedostoon.
+
+lataa
+Lataa tallennetun pelin.
+
+lopeta
+Lopettaa pelin.
+
+========================================
+              VOITTAMINEN
+========================================
+
+1. Etsi Avain.
+2. Kerää Avain inventaarioon.
+3. Palaa Avain mukana Portille.
+
+Kun olet Portilla ja sinulla on Avain,
+peli ilmoittaa voitosta.
+
+========================================
+               PISTEET
+========================================
+
+Aloitat 100 pisteellä.
+
+Esineen keräämisestä saat 10 pistettä.

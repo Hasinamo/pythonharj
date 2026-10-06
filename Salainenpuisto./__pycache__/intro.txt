@@ -1,0 +1,31 @@
+========================================
+             SALAINEN PUISTO
+========================================
+
+Tervetuloa salaiseen puistoon!
+
+Olet tullut puiston portille.
+Huomaat kuitenkin, että avaimesi on kadonnut.
+
+Tehtäväsi on löytää Avain
+ja palata sen kanssa takaisin Portille.
+
+Pelissä on kolme mahdollista reittiä:
+
+1. Portti -> Puisto -> Lampi -> Portti
+
+2. Portti -> Kirjasto -> Puisto -> Lampi -> Portti
+
+3. Portti -> Pyöräasema -> Lampi -> Portti
+
+Voit kerätä matkan aikana esineitä.
+
+Pelin teema liittyy kestävään kehitykseen.
+
+Kävely ja pyöräily ovat ympäristöystävällisiä
+liikkumistapoja.
+
+Aihe liittyy YK:n tavoitteeseen 11:
+Kestävät kaupungit ja yhteisöt.
+
+Onnea peliin!

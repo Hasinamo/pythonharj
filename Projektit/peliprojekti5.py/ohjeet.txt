@@ -1,0 +1,9 @@
+PELIN OHJEET
+
+pelaa = näyttää pelin tavoitteen
+ohje = näyttää ohjeet
+liiku = liikkuu paikasta toiseen
+kerää = kerää esineen
+inventaario = näyttää esineet
+tallenna = tallentaa pelin
+lopeta = lopettaa pelin

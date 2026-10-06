@@ -1,0 +1,5 @@
+print ('Hei, tervetuloa!')
+pelaaja = input ("Mikä sinun nimesi on?")
+print ('Hauska tavata', pelaaja + '!')
+ikä = input (" Minkä ikäinen olet?")
+print (' Olen', ikä, 'vuotias')
